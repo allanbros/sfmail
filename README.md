@@ -6,6 +6,8 @@
 For use on windows or linux simply download one of our binaries from the releases page and use that,
 alternatively build from source (instructions below).
 
+Once installed run sfmail, and the interface should take you from there.
+
 ## How to build from source
 The classical routine applies:
   1. `./configure`
